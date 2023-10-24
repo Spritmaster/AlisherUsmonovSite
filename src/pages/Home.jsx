@@ -2,8 +2,8 @@ import React from 'react'
 import Hero from '../components/Hero'
 import GridInfo from '../components/GridInfo'
 import FlexInfo from '../components/FlexInfo'
-import Mobilefoter from '../components/mobilefoter'
 import Footer from '../components/Footer'
+import Mobilefoter from '../components/Mobilefoter'
 
 
 const Home = () => {
