@@ -6,6 +6,7 @@ import { NavLink } from 'react-router-dom';
 
 const Hero = () => {
   return (
+
     <div className='w-full bg-contain bg-no-repeat bg-hero-img bg-[400px] xl:bg-right bg-[#FFC017]
    '>
       <Header />
